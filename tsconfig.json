@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "module": "system",
+        //"declaration": false,
+        "noImplicitAny": false,
+        "removeComments": true,
+        //"noLib": false,
+        "sourceMap": true,
+        "sourceRoot": "./",
+    "rootDir": "./",
+        "outFile": "output.js"
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
